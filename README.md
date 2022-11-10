@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Daniil Zaycev**, I'm an QA Engineer, learning C# and .NET
+✨ My name is **Daniil Zaycev**, I'm a C# .NET developer
 
 
 ## 📌 GitHub Stats and Top Languages
