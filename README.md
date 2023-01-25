@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Daniil**, I'm a C# .NET and Java developer :)
+✨ My name is **Daniil**, I'm a C# .NET developer :)
 
 
 ## 📌 GitHub Stats and Top Languages
