@@ -10,6 +10,10 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=protomorphine&layout=compact&theme=dark" />
 </p>
 
+## 📌 CodeWars link
+
+![https://www.codewars.com/users/protomorphine](https://www.codewars.com/users/protomorphine/badges/small)
+
 <!--
 **protomorphine/protomorphine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
