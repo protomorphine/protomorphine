@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Daniil**, I'm a C# .NET developer
+✨ My name is **Daniil**, I'm a C# .NET and Java developer :)
 
 
 ## 📌 GitHub Stats and Top Languages
@@ -10,8 +10,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=protomorphine&layout=compact&theme=dark" />
 </p>
 
-- 🌱 I’m currently learning ASP.NET, ELK stack, gRPC and other cool features to buid high-loaded web applications
-- 📫 How to reach me: mail - kupernewfag@gmail.com, telegram - @protomorphine
 <!--
 **protomorphine/protomorphine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
