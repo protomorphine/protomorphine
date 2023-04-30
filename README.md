@@ -1,7 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Daniil**, I'm a C# .NET developer :)
-
+✨ My name is **Daniil**, I'm a .NET developer
 
 ## 📌 GitHub Stats and Top Languages
 
@@ -10,7 +9,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=protomorphine&layout=compact&theme=dark" />
 </p>
 
-## 📌 CodeWars link
+## 📌 CodeWars profile
 
 ![https://www.codewars.com/users/protomorphine](https://www.codewars.com/users/protomorphine/badges/small)
 
