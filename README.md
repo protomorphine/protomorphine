@@ -2,7 +2,35 @@
 
 ✨ My name is **Daniil**,    
 ⚙️ I'm a .NET/UE/C++ developer from Moscow, Russia.  
-📫 How to reach me: Telegram (@protomorphine) email (kupernewfag@gmail.com)
+
+🛠 I have experience with:
+- Web:
+  - .NET6
+  - ASP.NET Core
+  - EntityFramework Core
+  - SignalR
+  - PostgreSQL
+  - Redis
+  - Kafka
+  - RabbitMQ (little bit)
+  - KeyKloak
+- Desktop:
+  - WPF
+  - CaliburnMicro
+  - MVVM
+- GameDevelopment:
+  - UnrealEngine 4.27/5.2
+  - RakNet
+  - a little bit of nDisplay
+- 3D:
+  - Encoding/decoding geometry data from `.gltf`/`.b3dm` format
+ 
+👨🏼‍🎓 Education:
+- 2016 - 2020, MOSCOW TECHNICAL UNIVERSITY OF COMMUNICATIONS AND INFORMATICS, bachelor, Secure communication systems and networks
+- 2020 - 2022, MOSCOW TECHNICAL UNIVERSITY OF COMMUNICATIONS AND INFORMATICS, master's degree, Infocommunication technologies and communication systems
+- 2023 - 2023, Yandex Practicum, Algorithms and data structures course
+
+📫 How to reach me: Telegram ([@protomorphine](https://t.me/protomorphine)) email (kupernewfag@gmail.com)
 
 ## 📌 GitHub Stats and Top Languages
 
