@@ -1,7 +1,8 @@
 # Hello World! 👋
 
-✨ My name is **Daniil**, I'm a .NET developer   
-📫 How to reach me: Telegram (@protomorphine)
+✨ My name is **Daniil**,    
+⚙️ I'm a .NET/UE/C++ developer from Moscow, Russia.  
+📫 How to reach me: Telegram (@protomorphine) email (kupernewfag@gmail.com)
 
 ## 📌 GitHub Stats and Top Languages
 
