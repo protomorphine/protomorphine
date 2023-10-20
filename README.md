@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ✨ My name is **Daniil**,    
-⚙️ I'm a .NET/UE/C++ developer from Moscow, Russia.  
+⚙️ I'm a .NET/UE/C++ software engineer from Moscow, Russia.  
 
 🛠 I have experience with:
 - Web:
