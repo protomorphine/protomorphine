@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ✨ My name is **Daniil**,    
-⚙️ I'm a .NET/UE/C++ software engineer from Moscow, Russia.  
+⚙️ I'm a software engineer from Moscow, Russia.  
  
 👨🏼‍🎓 Education:
 - 2016 - 2020, MOSCOW TECHNICAL UNIVERSITY OF COMMUNICATIONS AND INFORMATICS, bachelor, Secure communication systems and networks
