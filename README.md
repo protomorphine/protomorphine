@@ -2,28 +2,6 @@
 
 ✨ My name is **Daniil**,    
 ⚙️ I'm a .NET/UE/C++ software engineer from Moscow, Russia.  
-
-🛠 I have experience with:
-- Web:
-  - .NET6
-  - ASP.NET Core
-  - EntityFramework Core
-  - SignalR
-  - PostgreSQL
-  - Redis
-  - Kafka
-  - RabbitMQ (little bit)
-  - KeyKloak
-- Desktop:
-  - WPF
-  - CaliburnMicro
-  - MVVM
-- GameDevelopment:
-  - UnrealEngine 4.27/5.2
-  - RakNet
-  - a little bit of nDisplay
-- 3D:
-  - Encoding/decoding geometry data from `.gltf`/`.b3dm` format
  
 👨🏼‍🎓 Education:
 - 2016 - 2020, MOSCOW TECHNICAL UNIVERSITY OF COMMUNICATIONS AND INFORMATICS, bachelor, Secure communication systems and networks
