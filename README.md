@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Daniil**,    
+✨ My name is **Daniil**    
 ⚙️ I'm a software engineer from Moscow, Russia.  
  
 👨🏼‍🎓 Education:
@@ -8,7 +8,9 @@
 - 2020 - 2022, MOSCOW TECHNICAL UNIVERSITY OF COMMUNICATIONS AND INFORMATICS, master's degree, Infocommunication technologies and communication systems
 - 2023 - 2023, Yandex Practicum, Algorithms and data structures course
 
-📫 How to reach me: Telegram ([@protomorphine](https://t.me/protomorphine)) email (kupernewfag@gmail.com)
+🔬 Currently I'am:
+- practise in C++
+- beating tasks from leetcode
 
 ## 📌 GitHub Stats and Top Languages
 
